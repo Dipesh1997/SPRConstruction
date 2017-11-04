@@ -122,7 +122,7 @@
                 "alt": "User Pic",
                 "customStyle1": "display-7",
                 "caption": "Type caption here",
-                "active": false
+                "active": true
               },
               {
                 "tags": "Owner",
@@ -197,7 +197,7 @@
                 "active": false
               },
               {
-                "tags": "Tiling",
+                "tags": "Interior",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
@@ -206,7 +206,7 @@
                 "alt": "User Pic",
                 "customStyle1": "display-7",
                 "caption": "Type caption here",
-                "active": true
+                "active": false
               }
             ]
           }
